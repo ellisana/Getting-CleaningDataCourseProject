@@ -19,7 +19,7 @@ This repository contains the following files:
 - `CodeBook.md`, the code book, which describes the contents of the data set (data, variables and transformations used to generate the data).
 - `run_analysis.R`, the R script that was used to create the data set
 
-## Run Analysis
+## Instructions
 
 - Merges the training and the test sets to create one data set.
 - Extracts only the measurements on the mean and standard deviation for each measurement.
